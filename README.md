@@ -1,4 +1,5 @@
-<!--### Hi there, I'm Jenny 👋-->
+<!--### Hi there, I'm Tatiana 👋-->
+<h1 align="center">Hi there, I'm Tatiana 👋</h1>
 
 ### Немного о себе:
 
