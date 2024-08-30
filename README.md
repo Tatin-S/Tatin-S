@@ -37,7 +37,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/3221291?s=200&v=4" title="Appium" alt="Appium" width="40" height="40"/>&nbsp; 
   <img src="https://cdn.worldvectorlogo.com/logos/android-studio-1.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/appium/appium-inspector/raw/main/docs/icon.png" title="Appium Inspector" alt="Appium Inspector" width="40" height="40"/>&nbsp; 
   <img src="https://img.icons8.com/color/96/jira.png" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;  
   <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" title="Rest Assured" alt="Rest Assured" width="40" height="40" /> 
   </p>
