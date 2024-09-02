@@ -5,7 +5,7 @@
 
  - :technologist: С 2015 года работаю инженером по ручному тестированию
  - :astronaut: Узучаю автоматизацию тестирования на Java
- - :green_book: Сдала сертификат ISTQB - Certified Tester Foundation Level Syllabus 2018 Version CertificateID: 72700 <img src="https://www.gasq.org/logo__1_1.png" title="GASQ" alt="GASQ" width="40" height="40>
+ - :green_book: Сдала сертификат ISTQB - Certified Tester Foundation Level Syllabus 2018 Version CertificateID: 72700 <img src="https://www.gasq.org/logo__1_1.png">
  - :books: Закончила курс для инженеров по автоматизации тестирования https://qa.guru
 
 
@@ -18,7 +18,7 @@
   |Название дипломного проекта      |Ссылка в GitHub                                    
   |-------------------------------- |---------------------------------------------------------|
   | Проект по UI и API автоматизации| https://github.com/Tatin-S/qa-guru-diplom-mts-link-tests|    
-  | Проект по Mobile автоматизации  | https://github.com/Tatin-S/qa-guru-diplom-mobile-tests) |  
+  | Проект по Mobile автоматизации  | https://github.com/Tatin-S/qa-guru-diplom-mobile-tests  |  
   
  
  ### Технологии и инструменты:
